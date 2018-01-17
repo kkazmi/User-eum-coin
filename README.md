@@ -1,2 +1,2 @@
-# User-eum-coin
-wallet
+# tycho-coin
+wallet 
