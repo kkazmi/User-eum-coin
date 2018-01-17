@@ -15,7 +15,7 @@ function favicon_url()
 }
 function login_bg()
 {
-	return base_url().'assets/images/loginbg.jpg';
+	return base_url().'assets/images/bglogin.jpg';
 }
 
 function project_name()

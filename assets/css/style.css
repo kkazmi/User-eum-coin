@@ -8,7 +8,7 @@ li > a:focus, .top_nav .nav > li > a:hover {
 }
 #logingrid{
     padding: 5% !important;
-    background-color: #3161c9 !important;
+    background-color: #2e68e7e6 !important;
 }
 .left_col {
     background: #6E619C !important;
@@ -36,4 +36,12 @@ a:focus, a:hover {
 .btn-success, .btn-primary, .btn-info {
     background: #6E619C !important;
     border: 1px solid #2F2063 !important;
+}
+.login_content h1::after, .login_content h1::before {
+    
+    
+    width: 0px!important;
+}
+.btn-login{
+	background: #fff !important;
 }

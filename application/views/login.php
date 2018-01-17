@@ -46,8 +46,8 @@
               </div>
 
               <div>
-                <button type="submit" class="btn btn-success" onclick="return formbtn();">Submit</button>
-                <button class="btn btn-primary" type="reset">Reset</button>
+                <button type="submit" class="btn btn-login" onclick="return formbtn();">Submit</button>
+                <button class="btn btn-login" type="reset">Reset</button>
                 <a class="reset_pass" href="<?php echo base_url();?>forgetemail">Lost your password?</a>
              
               </div>

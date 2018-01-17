@@ -41,8 +41,8 @@
                 <input type="text" class="form-control validate[required,custom[email]]" placeholder="Email-address" id="username" name="username" />
               </div>
               <div>
-                <button type="submit" class="btn btn-success" onclick="return formbtn();">Submit</button>
-                <button class="btn btn-primary" type="reset">Reset</button>
+                <button type="submit" class="btn btn-login" onclick="return formbtn();">Submit</button>
+                <button class="btn btn-login" type="reset">Reset</button>
                
               </div>
 

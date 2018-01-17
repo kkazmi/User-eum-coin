@@ -51,8 +51,8 @@
               </div>
 
               <div>
-                <button type="submit"  onclick="return validatesignup();" class="btn btn-success">Submit</button>
-                <button class="btn btn-primary" type="reset">Reset</button>
+                <button type="submit"  onclick="return validatesignup();" class="btn btn-login">Submit</button>
+                <button class="btn btn-login" type="reset">Reset</button>
                <!--  <a class="btn btn-default submit" href="index.html">Log in</a>
                 <a class="reset_pass" href="#">Lost your password?</a> -->
               </div>
